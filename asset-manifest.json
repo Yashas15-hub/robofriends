@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yashas15-hub/robofriends/static/css/main.792f7c63.css",
+    "main.js": "/Yashas15-hub/robofriends/static/js/main.4bcda692.js",
+    "static/js/453.e6be0e86.chunk.js": "/Yashas15-hub/robofriends/static/js/453.e6be0e86.chunk.js",
+    "static/media/SEGA.woff": "/Yashas15-hub/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Yashas15-hub/robofriends/index.html",
+    "main.792f7c63.css.map": "/Yashas15-hub/robofriends/static/css/main.792f7c63.css.map",
+    "main.4bcda692.js.map": "/Yashas15-hub/robofriends/static/js/main.4bcda692.js.map",
+    "453.e6be0e86.chunk.js.map": "/Yashas15-hub/robofriends/static/js/453.e6be0e86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.792f7c63.css",
+    "static/js/main.4bcda692.js"
+  ]
+}
